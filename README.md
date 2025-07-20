@@ -315,7 +315,7 @@ This approach is simple and direct but does not enforce the stack discipline exp
 
 The following code demonstrates a stack implementation using a list by pushing elements 'a', 'b', and 'c', and then popping each one, which results in an empty stack.
 
-***example**
+**example**
 
 ```python
 stack = []
